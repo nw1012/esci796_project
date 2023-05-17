@@ -1,0 +1,12 @@
+name: final_project
+dependencies:
+  - pandas
+  - matplotlib
+  - matplotlib.dates
+  - math
+  - numpy
+  - calendar
+  - datetime
+  - scipy
+
+
